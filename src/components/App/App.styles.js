@@ -19,7 +19,3 @@ export const Container = styled.div`
     box-shadow: 0 3px 10px rgba(0,0,0,.15);
     border-radius: 20px;
 `
-
-export const Header: = styled.div`
-
-`
